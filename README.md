@@ -9,11 +9,10 @@ The **dune name generator** helps you create original names based on the lore an
 
 ## 📦 Why This Repository?
 
-Although this repository does not contain source code, it serves as:
+This repository serves as:
 
 - 📌 A reference hub for the **Dune Name Generator** project  
 - 💬 A place to collect feedback, ideas, and naming conventions from the community  
-- 🔗 A permanent backlink to our main website: [https://dunenamegenerator.com](https://dunenamegenerator.com)
 
 ## 🛠️ How to Use the Dune Name Generator
 
